@@ -3,7 +3,6 @@
 ### Bioinformatics and Computational Biology | Multi-omics | Disease Biology | Drug discovery
 
 I’m a **microbiologist** with a research interest in **bioinformatics and computational biology, multi-omics, disease biology & drug discovery.**
-Currently, I work as a research assistant at [CHIRAL]( https://chiralbd.github.io) and an Executive in Quality Control – Microbiology at Aristopharma Ltd.
 My long term goal is to bridge **dry-lab computation and wet-lab biology** by using experimental knowledge and biological data together to understand disease mechanisms and contribute to the **Human Health.**
 
 ## Education
