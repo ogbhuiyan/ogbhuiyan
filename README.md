@@ -7,6 +7,7 @@ Currently, I work as a research assistant at [CHIRAL]( https://chiralbd.github.i
 My long term goal is to bridge **dry-lab computation and wet-lab biology** by using experimental knowledge and biological data together to understand disease mechanisms and contribute to the **Human Health.**
 
 ## Education
+
 **Master of Science in Microbiology**  
 Jahangirnagar University, Dhaka, Bangladesh
 
@@ -14,22 +15,24 @@ Jahangirnagar University, Dhaka, Bangladesh
 Jahangirnagar University, Dhaka, Bangladesh
 
 ## Research Experience
-**Research Assistant**
-[CHIRAL](https://chiralbd.github.io/)
+
+**Research Assistant** at [CHIRAL](https://chiralbd.github.io/)
 
 ## Professional Experience
+
 **Executive — Quality Control, Microbiology**  
-Ophthalmic Unit, Aristopharma Ltd.
+Ophthalmic Unit, Aristopharma Ltd.  
 02 June 2025-Present
 
 **Officer, Quality Control (Microbiology) — Vaccine Division**  
-Incepta Pharmaceuticals Ltd.
+Incepta Pharmaceuticals Ltd.  
 07 January 2025 - 01 June 2025
 
 ## Research Interests
-•	bioinformatics and computational biology, 
-•	multi-omics, 
-•	disease biology & 
+
+•	bioinformatics and computational biology,  
+•	multi-omics,  
+•	disease biology &  
 •	drug discovery.
 
 
@@ -46,7 +49,7 @@ Incepta Pharmaceuticals Ltd.
 `Python` `R` `Linux/WSL` `Git` `GitHub` `Scanpy` `AnnData`
 `Pandas` `NumPy`
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [PROJECT_3_IFN_I](https://github.com/MdOsmanGaniBhuiyan/PROJECT_3_IFN_I)
 
@@ -57,19 +60,3 @@ in the context of **anti-PD-1 immunotherapy**.
 
 Bulk RNA-seq meta-analysis for investigating gene-expression patterns
 across multiple datasets.
-
-## 🎯 Research Goal
-
-To integrate my background in **microbiology** with **bioinformatics and
-computational biology** to investigate molecular mechanisms of disease,
-with a growing interest in **cancer genomics, transcriptomics,
-tumor–immune interactions, and therapeutic response**.
-
-## 📚 Currently Learning
-
-- Single-cell RNA-seq
-- Transcriptomics
-- Cancer genomics
-- Computational biology
-- Statistical analysis of biological data
-- Reproducible research
