@@ -1,47 +1,39 @@
-# Hi, I'm Osman 👋
+# Hi, I'm Osman
 
-### 🧬 Microbiology | Bioinformatics | Cancer Genomics | Computational Biology
+### Bioinformatics and Computational Biology | Multi-omics | Disease Biology | Drug discovery
 
-I am a microbiologist with academic training in **Microbiology** from
-**Jahangirnagar University** and professional experience in the
-**pharmaceutical industry**.
+I’m a **microbiologist** with a research interest in **bioinformatics and computational biology, multi-omics, disease biology & drug discovery.**
+Currently, I work as a research assistant at [CHIRAL]( https://chiralbd.github.io) and an Executive in Quality Control – Microbiology at Aristopharma Ltd.
+My long term goal is to bridge **dry-lab computation and wet-lab biology** by using experimental knowledge and biological data together to understand disease mechanisms and contribute to the **Human Health.**
 
-My current focus is on developing skills in **bioinformatics and
-computational biology**, particularly in the analysis of high-throughput
-sequencing data and its application to disease research.
+## Education
+**Master of Science in Microbiology**  
+Jahangirnagar University, Dhaka, Bangladesh
 
-## 🎓 Education
+**Bachelor of Science in Microbiology**  
+Jahangirnagar University, Dhaka, Bangladesh
 
-- **MSc in Microbiology** — Jahangirnagar University
-- **BSc in Microbiology** — Jahangirnagar University
+## Research Experience
+**Research Assistant**
+[CHIRAL](https://chiralbd.github.io/)
 
-## 💼 Professional Experience
+## Professional Experience
+**Executive — Quality Control, Microbiology**  
+Ophthalmic Unit, Aristopharma Ltd.
+02 June 2025-Present
 
-### Aristopharma Ltd.
-**Microbiology Department — Ophthalmic Unit**  
-*02 June 2025 – Present*
+**Officer, Quality Control (Microbiology) — Vaccine Division**  
+Incepta Pharmaceuticals Ltd.
+07 January 2025 - 01 June 2025
 
-### Incepta Pharmaceuticals Ltd.
-**Vaccine Division — Microbiology Department**  
-*07 January 2025 – 01 June 2025*
+## Research Interests
+•	bioinformatics and computational biology, 
+•	multi-omics, 
+•	disease biology & 
+•	drug discovery.
 
-My experience in pharmaceutical microbiology has provided me with practical
-laboratory experience in vaccine and ophthalmic pharmaceutical settings.
-I am now expanding my background into computational approaches for
-biological and biomedical research.
 
-## 🔬 Research Interests
-
-- Cancer genomics and transcriptomics
-- Single-cell and bulk RNA-seq
-- Gene expression and pathway analysis
-- Tumor–immune interactions
-- Therapeutic response
-- Molecular microbiology
-- Immunology and infectious disease
-- Computational biology
-
-## 🧪 Current Work
+## Current Work
 
 - Single-cell RNA-seq analysis
 - Bulk RNA-seq meta-analysis
@@ -49,7 +41,7 @@ biological and biomedical research.
 - Reproducible bioinformatics workflows
 - Python-based computational biology
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 `Python` `R` `Linux/WSL` `Git` `GitHub` `Scanpy` `AnnData`
 `Pandas` `NumPy`
