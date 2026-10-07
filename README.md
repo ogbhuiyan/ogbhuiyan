@@ -29,10 +29,10 @@ Incepta Pharmaceuticals Ltd.
 
 ## Research Interests
 
--Bioinformatics & Computational Biology
--Multi-Omics & Systems Biology
--Disease Biology & Molecular Mechanisms
--Drug Discovery & Computational Drug Design
+-Bioinformatics & Computational Biology  
+-Multi-Omics & Systems Biology  
+-Disease Biology & Molecular Mechanisms  
+-Drug Discovery & Computational Drug Design  
 
 
 ## Current Work
